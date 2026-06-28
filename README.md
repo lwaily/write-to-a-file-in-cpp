@@ -1,4 +1,4 @@
-# write-to-a-file-in-c-
+# write-to-a-file-in-cpp
 This simple program takes as input a file and the number of bytes you want to write to that file, and it writes that number of the character "a" to that file. 
 
 **To compile, type into your terminal:**
