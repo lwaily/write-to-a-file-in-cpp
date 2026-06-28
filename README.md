@@ -11,4 +11,4 @@ g++ -o writer writer.cpp
 ```
 ./writer <file> <number_of_bytes>
 ```
-where <file> is replaced with a file name along with .txt if you'd like, and <number_of_bytes> is a whole number.
+where `<file>` is replaced with a file name along with .txt if you'd like, and `<number_of_bytes>` is a whole number.
